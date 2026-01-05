@@ -1,2 +1,11 @@
-my name is vaisali.i am studying in 2nd B.SC.Computer Technology.
-my ambition is to become a devops engineering.
+public class SelfIntroduction {
+    public static void main(String[] args) {
+        System.out.println("Hello 😊");
+        System.out.println("My name is Vaisali 😄");
+        System.out.println("I have knowledge of DevOps 🚀");
+        System.out.println("I am learning Java programming ☕");
+        System.out.println("I am interested in software development and DevOps tools 💻");
+        System.out.println("Thank you 😊");
+    }
+}
+
